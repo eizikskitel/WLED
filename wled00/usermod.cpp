@@ -1,5 +1,4 @@
 #include "wled.h"
-#include "usermode/Analog_Clock/Analog_Clock.cpp"
 /*
  * This v1 usermod file allows you to add own functionality to WLED more easily
  * See: https://github.com/wled-dev/WLED/wiki/Add-own-functionality
