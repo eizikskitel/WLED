@@ -1,4 +1,5 @@
 #include "wled.h"
+#include "usermode/Analog_Clock/Analog_Clock.cpp
 /*
  * This v1 usermod file allows you to add own functionality to WLED more easily
  * See: https://github.com/wled-dev/WLED/wiki/Add-own-functionality
@@ -13,7 +14,7 @@
 //gets called once at boot. Do all initialization that doesn't depend on network here
 void userSetup()
 {
-
+  
 }
 
 //gets called every time WiFi is (re-)connected. Initialize own network interfaces here
